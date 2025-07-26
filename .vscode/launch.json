@@ -1,0 +1,10 @@
+{
+    "configurations": [
+    {
+        "command": "npx playwright test --config=playwright.config.ts --headed",
+        "name": "Playwright Debug",
+        "request": "launch",
+        "type": "node-terminal"
+    }
+    ]
+}
